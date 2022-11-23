@@ -28,7 +28,7 @@ All the personal projects for Great professor and great course, really recommend
 - [Q 118](day17): Write Arrow Function with Parameters
 - [Q 119](day17): Set Default Parameters for Your Functions
 - [Q 200](day17): Use the Reest Parameters with Function Parameters
-- [Q 201](day17): Use the Spread Operator to Evaluate Array In-Place
+- [Q 201](https://github.com/salehsami/JavaScript-Algorithms-and-Data-Structures/blob/main/ES6/Spread_operator.js): Use the Spread Operator to Evaluate Array In-Place
 - [Q 202](day17): Use Destructuring Assignment to Extract Values from Objects
 - [Q 203](day17): Use Destructuring Assignment to Assign Variables from Objects
 - [Q 204](day17): Use Destructuring Assignment to Assign Variables from Nested Objects
